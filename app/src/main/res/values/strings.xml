@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialLogin</string>
+    <string name="password_helper_text">Needed 8 characters</string>
+    <string name="button_register">Register</string>
+    <string name="password_hint_text">Password</string>
+    <string name="email_hint_text">Email Address</string>
+    <string name="err_msg_email">Please provide a valid email</string>
+</resources>
