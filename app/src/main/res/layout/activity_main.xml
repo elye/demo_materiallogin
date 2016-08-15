@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/input_text_height">
 
-        <EditText
+        <android.support.design.widget.TextInputEditText
             android:id="@+id/input_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -28,7 +28,7 @@
         android:layout_height="@dimen/input_text_height"
         app:helperText="@string/password_helper_text" >
 
-        <EditText
+        <android.support.design.widget.TextInputEditText
             android:id="@+id/input_password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
